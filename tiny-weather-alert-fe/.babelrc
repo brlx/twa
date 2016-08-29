@@ -1,0 +1,9 @@
+{
+  "presets": ["react", "es2015"],
+  "env": {
+    "development": {
+      // "there is the a line for this in package.json in the devdependencies: 'babel-preset-react-hmre', this is for hot reloading",
+      "presets": ["react-hmre"]
+    }
+  }
+}

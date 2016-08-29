@@ -1,0 +1,7 @@
+*.iml
+*.log
+.idea
+target
+node_modules
+nohup.out
+npm-debug.log*
